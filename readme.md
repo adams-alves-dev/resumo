@@ -1,3 +1,6 @@
+
+
+
 # Adams Oliveira da Silva Alves
 
 **Localização:** São Paulo-SP - Brasil
@@ -71,12 +74,12 @@ Desenvolvedor Front-End
 [Tipografia avançada para web](https://www.origamid.com/certificate/fe36225d/)
 
 ## Cursos livres
-* Javascript Ninja: https://github.com/adamsalves/curso-javascript-ninja
-* React Ninja*: https://github.com/da2k/curso-reactjs-ninja
-* Javascript completo ES6+*: https://www.origamid.com/curso/javascript-completo-es6/
-* Tipografia Avançada: https://www.origamid.com/curso/tipografia-avancada
-* UI Design Avançado*: https://www.origamid.com/curso/ui-design-avancado/
-* Web Design Completo: https://www.origamid.com/curso/web-design-completo/
-* WordPress como CMS: https://www.origamid.com/curso/wordpress-como-cms/
+* [Javascript Ninja](https://github.com/adamsalves/curso-javascript-ninja)
+* [React Ninja*](https://github.com/da2k/curso-reactjs-ninja)
+* [Javascript completo ES6+*](https://www.origamid.com/curso/javascript-completo-es6/)
+* [Tipografia Avançada](https://www.origamid.com/curso/tipografia-avancada)
+* [UI Design Avançado*](https://www.origamid.com/curso/ui-design-avancado/)
+* [Web Design Completo](https://www.origamid.com/curso/web-design-completo/)
+* [WordPress como CMS](https://www.origamid.com/curso/wordpress-como-cms/)
 
 ***em andamento**
