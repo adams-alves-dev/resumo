@@ -68,10 +68,10 @@ Desenvolvedor Front-End
 - **Espanhol** - Básico
 
 ## Certificações
-[Web Design completo](https://adams-alves-dev.github.io/resumo/certificados/Web%20Design%20Completo.pdf)
-[Wordpress como CMS](https://adams-alves-dev.github.io/resumo/certificados/WordPress%20Como%20CMS.pdf)
-[Tipografia avançada para web](https://adams-alves-dev.github.io/resumo/certificados/Tipografia%20Avan%C3%A7ada.pdf)
-[Javascript e JQuery](https://adams-alves-dev.github.io/resumo/certificados/JavaScript%20e%20jQuery.pdf)
+* [Web Design completo](https://adams-alves-dev.github.io/resumo/certificados/Web%20Design%20Completo.pdf)
+* [Wordpress como CMS](https://adams-alves-dev.github.io/resumo/certificados/WordPress%20Como%20CMS.pdf)
+* [Tipografia avançada para web](https://adams-alves-dev.github.io/resumo/certificados/Tipografia%20Avan%C3%A7ada.pdf)
+* [Javascript e JQuery](https://adams-alves-dev.github.io/resumo/certificados/JavaScript%20e%20jQuery.pdf)
 
 ## Cursos livres
 * [Javascript Ninja](https://github.com/adamsalves/curso-javascript-ninja)
