@@ -11,24 +11,26 @@
 **E-mail:** contato@adamsalves.com.br
 
 ## About me
-I am a Front End Developer. I started my career in 2012 building static sites, and with the experience gained since then, I am improving my skills, always seeking to know the best practices and best solutions for each project. I intend to write a personal blog about development and related matters.
+
+I work with Web Development with a focus on Front End. I have worked as a freelancer in the creation of institutional websites and projects that used Wordpress. Currently I want to work with Front-end, React or similar frameworks and UI Design.
 
 ## Objective
+
 Front-End Developer
 
 ## Skills
 
-* HTML5
-* CSS3
-* Javascript/JQuery/ES6+
-* UI/UX Design
-* Libs JS - Vue/React
-* Stylus - Pre-Processor
-* Task Runner - Gulp
-* PHP/WordPress - Basic
-* NodeJS - Basic
-* Illustrator/Figma
-* Git - Github
+- HTML5
+- CSS3
+- Javascript/JQuery/ES6+
+- UI/UX Design
+- Libs JS - Vue/React
+- Stylus - Pre-Processor
+- Task Runner - Gulp
+- PHP/WordPress - Basic
+- NodeJS - Basic
+- Illustrator/Figma
+- Git - Github
 
 ## Work Experience
 
@@ -62,18 +64,20 @@ Front-End Developer
 - **Spanish** - Basic
 
 ## Certifications
-* [Web Design](https://adams-alves-dev.github.io/resumo/certificados/Web%20Design%20Completo.pdf)
-* [Wordpress - CMS](https://adams-alves-dev.github.io/resumo/certificados/WordPress%20Como%20CMS.pdf)
-* [Advanced web typography](https://adams-alves-dev.github.io/resumo/certificados/Tipografia%20Avan%C3%A7ada.pdf)
-* [Javascript and JQuery](https://adams-alves-dev.github.io/resumo/certificados/JavaScript%20e%20jQuery.pdf)
+
+- [Web Design](https://adams-alves-dev.github.io/resumo/certificados/Web%20Design%20Completo.pdf)
+- [Wordpress - CMS](https://adams-alves-dev.github.io/resumo/certificados/WordPress%20Como%20CMS.pdf)
+- [Advanced web typography](https://adams-alves-dev.github.io/resumo/certificados/Tipografia%20Avan%C3%A7ada.pdf)
+- [Javascript and JQuery](https://adams-alves-dev.github.io/resumo/certificados/JavaScript%20e%20jQuery.pdf)
 
 ## Cursos livres
-* [Javascript Ninja](https://github.com/adamsalves/curso-javascript-ninja)
-* [React Ninja*](https://github.com/da2k/curso-reactjs-ninja)
-* [Javascript ES6+*](https://www.origamid.com/curso/javascript-completo-es6/)
-* [Advanced Typography](https://www.origamid.com/curso/tipografia-avancada)
-* [Advanced UI Design*](https://www.origamid.com/curso/ui-design-avancado/)
-* [Web Design](https://www.origamid.com/curso/web-design-completo/)
-* [WordPress](https://www.origamid.com/curso/wordpress-como-cms/)
 
-***in progress**
+- [Javascript Ninja](https://github.com/adamsalves/curso-javascript-ninja)
+- [React Ninja\*](https://github.com/da2k/curso-reactjs-ninja)
+- [Javascript ES6+\*](https://www.origamid.com/curso/javascript-completo-es6/)
+- [Advanced Typography](https://www.origamid.com/curso/tipografia-avancada)
+- [Advanced UI Design\*](https://www.origamid.com/curso/ui-design-avancado/)
+- [Web Design](https://www.origamid.com/curso/web-design-completo/)
+- [WordPress](https://www.origamid.com/curso/wordpress-como-cms/)
+
+**\*in progress**

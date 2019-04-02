@@ -10,31 +10,33 @@
 
 **E-mail:** contato@adamsalves.com.br
 
-
 ## Sobre mim
-Eu sou um desenvolvedor Front-End. Começei minha carreira em 2012 construindo sites estáticos, e, com a experiência adquirida desde então, estou aperfeiçoando minhas habilidades, sempre buscando conhecer as melhores práticas e melhores soluções para cada projeto. Pretendo escrever um blog pessoal sobre desenvolvimento e assuntos afins.
+
+Trabalho com Desenvolvimento Web com foco em Front-End. Já atuei como freelancer na criação de sites institucionais e projetos que usavam Wordpress. Atualmente quero trabalhar com Front-end, React ou frameworks semelhantes e UI Design.
 
 ## Objetivo
+
 Desenvolvedor Front-End
 
 ## Principais competências
-- Web Design 
+
+- Web Design
 - Front-End
 - Desenvolvimento de sites
 
 ## Habilidades
 
-* HTML5
-* CSS3
-* Javascript/JQuery/ES6+
-* UI/UX Design
-* Libs JS - Vue/React
-* Stylus - Pre-Processor
-* Task Runner - Gulp
-* PHP/WordPress - Básico
-* NodeJS - Básico
-* Illustrator/Figma
-* Git - Github
+- HTML5
+- CSS3
+- Javascript/JQuery/ES6+
+- UI/UX Design
+- Libs JS - Vue/React
+- Stylus - Pre-Processor
+- Task Runner - Gulp
+- PHP/WordPress - Básico
+- NodeJS - Básico
+- Illustrator/Figma
+- Git - Github
 
 ## Experiência Profissional
 
@@ -68,18 +70,20 @@ Desenvolvedor Front-End
 - **Espanhol** - Básico
 
 ## Certificações
-* [Web Design completo](https://adams-alves-dev.github.io/resumo/certificados/Web%20Design%20Completo.pdf)
-* [Wordpress como CMS](https://adams-alves-dev.github.io/resumo/certificados/WordPress%20Como%20CMS.pdf)
-* [Tipografia avançada para web](https://adams-alves-dev.github.io/resumo/certificados/Tipografia%20Avan%C3%A7ada.pdf)
-* [Javascript e JQuery](https://adams-alves-dev.github.io/resumo/certificados/JavaScript%20e%20jQuery.pdf)
+
+- [Web Design completo](https://adams-alves-dev.github.io/resumo/certificados/Web%20Design%20Completo.pdf)
+- [Wordpress como CMS](https://adams-alves-dev.github.io/resumo/certificados/WordPress%20Como%20CMS.pdf)
+- [Tipografia avançada para web](https://adams-alves-dev.github.io/resumo/certificados/Tipografia%20Avan%C3%A7ada.pdf)
+- [Javascript e JQuery](https://adams-alves-dev.github.io/resumo/certificados/JavaScript%20e%20jQuery.pdf)
 
 ## Cursos livres
-* [Javascript Ninja](https://github.com/adamsalves/curso-javascript-ninja)
-* [React Ninja*](https://github.com/da2k/curso-reactjs-ninja)
-* [Javascript completo ES6+*](https://www.origamid.com/curso/javascript-completo-es6/)
-* [Tipografia Avançada](https://www.origamid.com/curso/tipografia-avancada)
-* [UI Design Avançado*](https://www.origamid.com/curso/ui-design-avancado/)
-* [Web Design Completo](https://www.origamid.com/curso/web-design-completo/)
-* [WordPress como CMS](https://www.origamid.com/curso/wordpress-como-cms/)
 
-***em andamento**
+- [Javascript Ninja](https://github.com/adamsalves/curso-javascript-ninja)
+- [React Ninja\*](https://github.com/da2k/curso-reactjs-ninja)
+- [Javascript completo ES6+\*](https://www.origamid.com/curso/javascript-completo-es6/)
+- [Tipografia Avançada](https://www.origamid.com/curso/tipografia-avancada)
+- [UI Design Avançado\*](https://www.origamid.com/curso/ui-design-avancado/)
+- [Web Design Completo](https://www.origamid.com/curso/web-design-completo/)
+- [WordPress como CMS](https://www.origamid.com/curso/wordpress-como-cms/)
+
+**\*em andamento**
