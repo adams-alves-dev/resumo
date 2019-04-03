@@ -1,3 +1,5 @@
+[english version](readme-en.md)
+
 # Adams Oliveira da Silva Alves
 
 **Localização:** São Paulo-SP - Brasil
@@ -12,7 +14,7 @@
 
 ## Sobre mim
 
-Trabalho com Desenvolvimento Web com foco em Front-End. Já atuei como freelancer na criação de sites institucionais e projetos que usavam Wordpress. Atualmente quero trabalhar com Front-end, React ou frameworks semelhantes e UI Design.
+Trabalho com Desenvolvimento Web com foco em Front-End. Já atuei como freelancer na criação de sites institucionais e projetos que usavam Wordpress. Atualmente quero trabalhar com Front-end, React, Vue ou frameworks semelhantes e UI Design.
 
 ## Objetivo
 

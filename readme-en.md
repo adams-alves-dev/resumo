@@ -12,7 +12,7 @@
 
 ## About me
 
-I work with Web Development with a focus on Front End. I have worked as a freelancer in the creation of institutional websites and projects that used Wordpress. Currently I want to work with Front-end, React or similar frameworks and UI Design.
+I work with Web Development with a focus on Front End. I have worked as a freelancer in the creation of institutional websites and projects that used Wordpress. Currently I want to work with Front-end, React, Vue or similar frameworks and UI Design.
 
 ## Objective
 
